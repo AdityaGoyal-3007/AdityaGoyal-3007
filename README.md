@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AdityaGoyal-3007
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Java and Machine Learning.
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me ...
+- 📫 How to reach me www.linkedin.com/in/aditya-goyal-aab104266
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
